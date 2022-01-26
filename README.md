@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?&color=auto&height=50px&section=header&text=Justin GitHib&fontSize=35px)
-
-
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinFEDev)](https://github.com/JustinFEDev/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
