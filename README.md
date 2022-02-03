@@ -3,7 +3,7 @@
 ### Hi there 👋  Welcome to Justin's Github!
 
 - 🔭 I’m currently working on Supertree.co
-- 🌱 I’m currently learning React.js, Next.js, Redux, Scss, 
+- 🌱 I’m currently learning React.js, Next.js, Redux, Scss, GraphQL, Apollo
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinFEDev)](https://github.com/JustinFEDev/github-readme-stats)
